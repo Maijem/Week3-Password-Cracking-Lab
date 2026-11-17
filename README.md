@@ -1,4 +1,32 @@
-# 🔐 Module 1 — Password Cracking with JTR
+# 🔐 Week3-Password-Cracking-Lab
+
+A hands-on password cracking lab completed during Week 3 of my cybersecurity internship. This repository documents how I recovered the password of a locked PDF using both a desktop tool (John the Ripper) and free browser-based tools (Networkwalks Hash Calculator and Networkwalks Password Cracker), to understand how password hashes are extracted and cracked in practice.
+
+![Skill](https://img.shields.io/badge/Skill-Cybersecurity-blue)
+![Tool](https://img.shields.io/badge/Tool-John%20the%20Ripper-red)
+![Tool](https://img.shields.io/badge/Tool-Johnny%20GUI-orange)
+![Tool](https://img.shields.io/badge/Tool-Networkwalks%20Hash%20Calculator-9333ea)
+![Tool](https://img.shields.io/badge/Tool-Networkwalks%20Password%20Cracker-db2777)
+![OS](https://img.shields.io/badge/OS-Windows-0078D6)
+![Topic](https://img.shields.io/badge/Topic-Password%20Cracking-critical)
+![Skill](https://img.shields.io/badge/Skill-Hash%20Analysis-yellow)
+![Batch](https://img.shields.io/badge/Batch-B084-9cf)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
+![Author](https://img.shields.io/badge/Author-Obioma%20ThankGod%20Chimaijem-success)
+
+## 📌 Project Overview
+
+For Week 3 of my internship, I worked through two password-cracking modules on a locked PDF file (`My Locked PDF1.pdf`).
+
+In Module 1, I installed John the Ripper and its Johnny GUI on Windows, extracted the PDF's crackable hash using an online hash extractor, and ran a dictionary attack to recover the password.
+
+In Module 2, I repeated the same objective using Networkwalks' own browser-based Hash Calculator and Password Cracker tools — no installation required, everything running directly in the browser.
+
+Both methods successfully recovered the same password, reinforcing how quickly weak or common passwords can be cracked and why strong password hygiene matters in real-world security.
+
+---
+
+## 🔒 Module 1 — Password Cracking with JTR
 
 **🎯 Task:** Crack the password of `My Locked PDF1.pdf` using JTR John and JTR Johnny on Windows.
 
