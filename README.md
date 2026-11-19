@@ -69,6 +69,9 @@ Both methods successfully recovered the same password, reinforcing how quickly w
    - Password cracked: `password1`
    - Opened the PDF, entered the password → unlocked successfully 🔓
 
+ ### 📸 Screenshot
+![Password cracked in Johnny](./module-jtr/screenshots/cracked-password-jtr.png)    
+
 ## 🚩 Flag
 ```
 nw{networkwalks_flag1_jtr_270521_1}
@@ -104,3 +107,5 @@ nw{networkwalks_flag1_jtr_270521_1}
    - Password recovered: `password1`
    - Opened the PDF, entered the password → unlocked successfully 🔓
 
+### 📸 Screenshot
+![Password cracked with Networkwalks tools](./module2-networkwalks/screenshots/cracked-password-networkwalks.png)
