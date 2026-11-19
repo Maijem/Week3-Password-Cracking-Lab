@@ -108,4 +108,4 @@ nw{networkwalks_flag1_jtr_270521_1}
    - Opened the PDF, entered the password → unlocked successfully 🔓
 
 ### 📸 Screenshot
-![Password cracked with Networkwalks tools](./module2-networkwalks/screenshots/cracked-password-networkwalks.png)
+![Password cracked with Networkwalks tools](./module2-networkwalks/cracked-password-networkwalks.png)
